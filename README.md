@@ -1,6 +1,6 @@
 <h1 align="left">Hello Coders🚀, I'm Jaydip Pipaliya<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pipaliyajaydip&label=Profile%20views&color=0e75b6&style=flat" alt="pipaliyajaydip" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pipaliyajaydip&label=Profile%20views&color=0e75b6&style=flat" alt="pipaliyajaydip" /></p> 
 
 ### ⚙️ &nbsp;Languages and Tools
 
