@@ -1,6 +1,8 @@
 <h1 align="left">Hello Coders🚀, I'm Jaydip Pipaliya<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pipaliyajaydip&label=Profile%20views&color=0e75b6&style=flat" alt="pipaliyajaydip" /></p>
+[![Visits Badge](https://badges.pufler.dev/visits/pipaliyajaydip/pipaliyajaydip)](https://github.com/pipaliyajaydip)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/pipliyajaydip)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pipaliyajaydip)
 
 ### ⚙️ &nbsp;Languages and Tools
 <div>
