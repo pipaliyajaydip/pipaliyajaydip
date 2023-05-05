@@ -34,5 +34,5 @@
 <a href="https://linkedin.com/in/pipaliyajaydip" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="pipaliyajaydip" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/16144480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16144480" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pipaliyajaydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pipaliyajaydip" height="30" width="40" /></a>
-<a href="mailto:pipaliyaj3@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="pipaliyajaydip" height="35" width="30" /></a>
+<aa href="mailto:pipaliyaj3@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="pipaliyajaydip" height="
 </p>
