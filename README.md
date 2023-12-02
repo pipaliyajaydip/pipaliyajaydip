@@ -1,7 +1,7 @@
 <h1 align="left">Hello Coders🚀, I'm Jaydip Pipaliya<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Visits Badge](https://badges.pufler.dev/visits/pipaliyajaydip/pipaliyajaydip)](https://github.com/pipaliyajaydip)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/pipliyajaydip)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Jaydip_Pipaliya)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pipaliyajaydip)
 
 ### ⚙️ &nbsp;Languages and Tools
@@ -30,9 +30,8 @@
 ### ⚙️ &nbsp;Connect with Me
   
 <p align="left">
-<a href="https://twitter.com/pipliyajaydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pipliyajaydip" height="30" width="40" /></a>
+<a href="https://twitter.com/Jaydip_Pipaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pipliyajaydip" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pipaliyajaydip" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="pipaliyajaydip" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/16144480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16144480" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pipaliyajaydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pipaliyajaydip" height="30" width="40" /></a>
-<aa href="mailto:pipaliyaj3@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="pipaliyajaydip" height="
 </p>
