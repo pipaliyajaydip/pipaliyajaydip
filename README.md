@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pipaliyajaydip)
 
 ### ⚙️ &nbsp;Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,redux,cpp,docker,aws,postman,jest,git,postgres,mui)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,redux,cpp,docker,aws,postman,jest,git,postgres,mui)](https://github.com/pipaliyajaydip)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -19,11 +19,6 @@
 
   
 ### ⚙️ &nbsp;Connect with Me
-
-<a href="https://linkedin.com/in/pipaliyajaydip" target="_blank" padding-right="100px">
-    <img src="https://skillicons.dev/icons?i=linkedin" padding-right="10px" />
-</a>
-<a href="https://twitter.com/Jaydip_Pipaliya" target="_blank" padding-right="10px">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pipaliyajaydip)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Jaydip_Pipaliya)
 
