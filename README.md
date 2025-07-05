@@ -1,6 +1,6 @@
 <h1 align="left">Hello Engineers🚀, I'm Jaydip Pipaliya<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Visits Badge](https://badges.pufler.dev/visits/pipaliyajaydip/pipaliyajaydip)](https://github.com/pipaliyajaydip)
+![](https://komarev.com/ghpvc/?username=pipaliyajaydip&color=blue)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Jaydip_Pipaliya)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pipaliyajaydip)
 
