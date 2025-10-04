@@ -12,15 +12,33 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/pipaliyajaydip">
+        <img src="https://github-readme-stats.vercel.app/api?username=pipaliyajaydip&show_icons=true&theme=gotham" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pipaliyajaydip">
+        <img src="https://streak-stats.demolab.com/?user=pipaliyajaydip&theme=gotham" alt="GitHub Streak" />
+      </a>
+    </td>
+    <!-- <td align="center">
+      <a href="https://github.com/pipaliyajaydip">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipaliyajaydip&show_icons=true&theme=gotham" alt="GitHub Stats" />
+      </a>
+    </td> -->
+  </tr>
+  <!-- <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipaliyajaydip&show_icons=true&theme=gotham" alt="GitHub Streak" />
+    </td>
+  </tr> -->
+</table>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pipaliyajaydip&theme=radical&show_icons=true" />
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=pipaliyajaydip&theme=radical&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pipaliyajaydip&layout=compact&langs_count=8&theme=algolia"/>
-</p>
- 
+[![Jaydip Pipaliya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pipaliyajaydip&theme=gotham)](https://github.com/pipaliyajaydip)
 
-  
 ### ⚙️ &nbsp;Connect with Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pipaliyajaydip)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Jaydip_Pipaliya)
