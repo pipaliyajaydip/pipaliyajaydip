@@ -22,7 +22,6 @@
     <td align="center">
       <a href="https://github.com/pipaliyajaydip">
         <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=pipaliyajaydip&theme=gotham" alt="GitHub Streak" />
-        <!-- <img src="https://streak-stats.demolab.com/?user=pipaliyajaydip&theme=gotham" alt="GitHub Streak" /> -->
       </a>
     </td>
     <!-- <td align="center">
