@@ -24,11 +24,6 @@
         <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=pipaliyajaydip&theme=gotham" alt="GitHub Streak" />
       </a>
     </td>
-    <!-- <td align="center">
-      <a href="https://github.com/pipaliyajaydip">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipaliyajaydip&show_icons=true&theme=gotham" alt="GitHub Stats" />
-      </a>
-    </td> -->
   </tr>
   <!-- <tr>
     <td>
