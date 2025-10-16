@@ -25,11 +25,6 @@
       </a>
     </td>
   </tr>
-  <!-- <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipaliyajaydip&show_icons=true&theme=gotham" alt="GitHub Streak" />
-    </td>
-  </tr> -->
 </table>
 
 [![Jaydip Pipaliya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pipaliyajaydip&theme=gotham)](https://github.com/pipaliyajaydip)
