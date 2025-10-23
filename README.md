@@ -32,4 +32,3 @@
 ### ⚙️ &nbsp;Connect with Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pipaliyajaydip)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Jaydip_Pipaliya)
-
