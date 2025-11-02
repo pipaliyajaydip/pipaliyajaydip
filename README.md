@@ -32,6 +32,7 @@
 ### ⚙️ &nbsp;Connect with Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pipaliyajaydip)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Jaydip_Pipaliya)
+
 <div align="center">
   <a href="https://github.com/pipaliyajaydip">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling"
