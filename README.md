@@ -16,7 +16,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/pipaliyajaydip">
-        <img src="https://github-readme-stats.vercel.app/api?username=pipaliyajaydip&show_icons=true&theme=gotham" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-plum-nine.vercel.app/api?username=pipaliyajaydip&show_icons=true&theme=gotham" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center">
