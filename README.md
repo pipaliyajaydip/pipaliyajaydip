@@ -10,7 +10,6 @@
 ### ⚙️ &nbsp;Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,redux,cpp,docker,aws,postman,jest,git,postgres,mui)](https://github.com/pipaliyajaydip)
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 <table>
   <tr>
