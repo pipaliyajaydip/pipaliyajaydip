@@ -1,4 +1,4 @@
-<h1 align="left">Hello Engineers🚀, I'm Jaydip Pipaliya<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">, I'm Jaydip Pipaliya</h1>
 
 [![](https://komarev.com/ghpvc/?username=pipaliyajaydip&color=blue)](https://github.com/pipaliyajaydip) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Jaydip_Pipaliya) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pipaliyajaydip)
 
@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-[![Jaydip Pipaliya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pipaliyajaydip&theme=gotham)](https://github.com/pipaliyajaydip)
+<!-- [![Jaydip Pipaliya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pipaliyajaydip&theme=gotham)](https://github.com/pipaliyajaydip) -->
 
 ### ⚙️ &nbsp;Connect with Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pipaliyajaydip) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Jaydip_Pipaliya)
